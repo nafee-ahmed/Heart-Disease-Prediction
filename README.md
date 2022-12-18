@@ -2,7 +2,7 @@
 
 ## Installation Steps:
 
-Pre-requisites: Install conda version 4.12.0 with Python version 3
+Pre-requisites: Install MiniConda version 4.12.0 with Python version 3
 
 ## Steps to run the code:
 
